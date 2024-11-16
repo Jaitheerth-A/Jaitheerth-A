@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey! 👋 </h1>
 
 ###
 
@@ -15,6 +15,10 @@
 ###
 
 <h2 align="left">I code with</h2>
+
+###
+
+<h2 align="left">I have basic knowledge in Python,C,C++ and SQL</h2>
 
 ###
 
