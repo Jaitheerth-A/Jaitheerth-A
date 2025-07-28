@@ -14,10 +14,6 @@
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
-
 <h2 align="left">I have basic knowledge in Python,Java,C,C++ and SQL</h2>
 
 ###
