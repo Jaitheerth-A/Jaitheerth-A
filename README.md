@@ -12,7 +12,7 @@
 
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning C<br>🎯 Goals: ...<br>🎲 Fun fact: ...NIL</p>
 
-###
+##
 
 <h2 align="left">I have basic knowledge in Python,Java,C,C++ and SQL</h2>
 
